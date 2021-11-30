@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/github.io/Simple-calculator/static/js/main.18925eec.chunk.js",
-    "main.js.map": "/github.io/Simple-calculator/static/js/main.18925eec.chunk.js.map",
-    "runtime-main.js": "/github.io/Simple-calculator/static/js/runtime-main.925a6eb4.js",
-    "runtime-main.js.map": "/github.io/Simple-calculator/static/js/runtime-main.925a6eb4.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/github.io/Simple-calculator/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.2e5e865e.chunk.js": "/github.io/Simple-calculator/static/js/2.2e5e865e.chunk.js",
-    "static/js/2.2e5e865e.chunk.js.map": "/github.io/Simple-calculator/static/js/2.2e5e865e.chunk.js.map",
-    "static/js/3.ca58a608.chunk.js": "/github.io/Simple-calculator/static/js/3.ca58a608.chunk.js",
-    "static/js/3.ca58a608.chunk.js.map": "/github.io/Simple-calculator/static/js/3.ca58a608.chunk.js.map",
-    "index.html": "/github.io/Simple-calculator/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/github.io/Simple-calculator/static/css/2.0a9ec390.chunk.css.map",
-    "static/js/2.2e5e865e.chunk.js.LICENSE.txt": "/github.io/Simple-calculator/static/js/2.2e5e865e.chunk.js.LICENSE.txt"
+    "main.js": "/Simple-calculator/static/js/main.ad073e72.chunk.js",
+    "main.js.map": "/Simple-calculator/static/js/main.ad073e72.chunk.js.map",
+    "runtime-main.js": "/Simple-calculator/static/js/runtime-main.2baebd5d.js",
+    "runtime-main.js.map": "/Simple-calculator/static/js/runtime-main.2baebd5d.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Simple-calculator/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.94e3b116.chunk.js": "/Simple-calculator/static/js/2.94e3b116.chunk.js",
+    "static/js/2.94e3b116.chunk.js.map": "/Simple-calculator/static/js/2.94e3b116.chunk.js.map",
+    "static/js/3.c917ecf4.chunk.js": "/Simple-calculator/static/js/3.c917ecf4.chunk.js",
+    "static/js/3.c917ecf4.chunk.js.map": "/Simple-calculator/static/js/3.c917ecf4.chunk.js.map",
+    "index.html": "/Simple-calculator/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Simple-calculator/static/css/2.0a9ec390.chunk.css.map",
+    "static/js/2.94e3b116.chunk.js.LICENSE.txt": "/Simple-calculator/static/js/2.94e3b116.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.925a6eb4.js",
+    "static/js/runtime-main.2baebd5d.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.2e5e865e.chunk.js",
-    "static/js/main.18925eec.chunk.js"
+    "static/js/2.94e3b116.chunk.js",
+    "static/js/main.ad073e72.chunk.js"
   ]
 }
