@@ -1,0 +1,2 @@
+(this.webpackJsonpcalculator=this.webpackJsonpcalculator||[]).push([[0],{10:function(t,e,n){"use strict";n.r(e);var c=n(0),o=n.n(c),i=n(3),r=n.n(i),a=function(t){t&&t instanceof Function&&n.e(3).then(n.bind(null,11)).then((function(e){var n=e.getCLS,c=e.getFID,o=e.getFCP,i=e.getLCP,r=e.getTTFB;n(t),c(t),o(t),i(t),r(t)}))},s=(n(8),n(2));r.a.render(Object(s.jsx)(o.a.StrictMode,{children:Object(s.jsx)("h1",{children:"HELLO WORLD"})}),document.getElementById("root")),a()}},[[10,1,2]]]);
+//# sourceMappingURL=main.18925eec.chunk.js.map
